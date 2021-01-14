@@ -114,7 +114,9 @@ polygon.display();
 ground3.display();
 launcher.display();
 
-
+textSize(30);
+fill("red");
+text("Press 'Space' for second chance",150,50);
 
 }
 function mouseDragged(){

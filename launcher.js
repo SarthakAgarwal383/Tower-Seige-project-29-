@@ -6,7 +6,7 @@ class slingshot{
             bodyA: bodyA,
             pointB: pointB,
             stiffness: 0.4,
-            length: 10
+            length: 30
           
         }
         this.sling1= loadImage("sling1.png");
